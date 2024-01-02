@@ -23,7 +23,8 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
 
 <h3 style="text-align: left">Connect with me:</h3>
 <p style="text-align: left">
-  <a href="https://linkedin.com/in/srinivasa-bharadwaj-peddinti" target="blank"
+  <a href="https://linkedin.com/in/srinivasa-bharadwaj-peddinti" rel="noreferrer noopener"
+            target="_blank"
     ><img
       style="text-align: center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
