@@ -32,6 +32,15 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
       height="30"
       width="40"
   /></a>
+  <a href="https://psbharadwaj.netlify.app/" rel="noreferrer noopener"
+            target="_blank"
+    ><img
+      style="text-align: center"
+      src=""
+      alt="srinivasa bharadwaj peddinti"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 style="text-align: left">Languages and Tools:</h3>
