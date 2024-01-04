@@ -36,7 +36,7 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
             target="_blank"
     ><img
       style="text-align: center"
-      src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn2.vectorstock.com%2Fi%2F1000x1000%2F49%2F21%2Fportfolio-icon-for-graphic-vector-30564921.jpg&tbnid=DeLH8kYWswY-AM&vet=12ahUKEwiis-vTpcSDAxVDTmwGHRI3ATAQMygWegUIARCpAQ..i&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fportfolio-icon-for-graphic-vector-30564921&docid=TcGKAYAlYjUk0M&w=1000&h=1080&q=portfolio%20icon&ved=2ahUKEwiis-vTpcSDAxVDTmwGHRI3ATAQMygWegUIARCpAQ"
+      src=""
       alt="srinivasa bharadwaj peddinti"
       height="30"
       width="40"
