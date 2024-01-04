@@ -36,7 +36,7 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
             target="_blank"
     ><img
       style="text-align: center"
-      src=""
+      src="https://thumbs.dreamstime.com/z/portfolio-icon-vector-isolated-contour-symbol-illustration-thin-line-sign-166183233.jpg"
       alt="srinivasa bharadwaj peddinti"
       height="30"
       width="40"
