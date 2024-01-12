@@ -188,6 +188,15 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
 </p>
 
 <p>
+  <img
+    style="text-align: center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=psbharadwaj2002&"
+    alt="psbharadwaj2002"
+  />
+</p>
+
+
+<p>
   &nbsp;<img
     style="text-align: center"
     src="https://github-readme-stats.vercel.app/api?username=psbharadwaj2002&show_icons=true&locale=en"
