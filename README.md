@@ -187,6 +187,8 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
   />
 </p>
 
+<p><img style="text-align: center" src="https://github-readme-streak-stats.herokuapp.com/?user=psbharadwaj2002&" alt="psbharadwaj2002" /></p>
+
 
 
 
