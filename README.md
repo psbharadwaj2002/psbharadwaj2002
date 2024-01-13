@@ -192,11 +192,4 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
 
 
 
-<p>
-  &nbsp;<img
-    style="text-align: center"
-    src="https://github-readme-stats.vercel.app/api?username=psbharadwaj2002&show_icons=true&locale=en"
-    alt="psbharadwaj2002"
-  />
-</p>
 
