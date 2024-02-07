@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
+- 🔭 I’m currently working on **Skill Development**
 <br />
 - 💬 Ask me about **MERN, DSA, System Design, Linux**
 <br />
