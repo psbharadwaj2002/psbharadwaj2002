@@ -179,13 +179,7 @@ transform ideas into digital wonders! ☕💻✨ #MERNMaestro**
   </a>
 </p>
 
-<p>
-  <img
-    style="text-align: left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=psbharadwaj2002&show_icons=true&locale=en&layout=compact"
-    alt="psbharadwaj2002"
-  />
-</p>
+
 
 
 
